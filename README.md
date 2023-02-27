@@ -1,4 +1,4 @@
-Proyecto realizado en Google Colaboratory, mejor descargar y subir a colab
+Proyecto realizado en Python con Google Colaboratory, mejor descargar y subir a colab
 
 Predición del precio de una vivienda utilizando técnicas de Deep Learning
 
