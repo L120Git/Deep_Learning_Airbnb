@@ -1,4 +1,6 @@
-# Predición del precio de una vivienda utilizando técnicas de Deep Learning
+Proyecto realizado en Google Colaboratory
+
+Predición del precio de una vivienda utilizando técnicas de Deep Learning
 
 o.- Análisis y estandarización de los datos
 1.- modelo lineal basado únicamente en datos
